@@ -11,3 +11,9 @@ System.Console.WriteLine(outraConta);
 minhaConta.Sacar(200);
 minhaConta.Transferir(1200, outraConta);
 outraConta.Deposito(300);
+
+
+
+
+System.Console.WriteLine(minhaConta);
+System.Console.WriteLine(outraConta);
