@@ -1,0 +1,15 @@
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\bin\Debug\net8.0\bank-transfer-app.exe
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\bin\Debug\net8.0\bank-transfer-app.deps.json
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\bin\Debug\net8.0\bank-transfer-app.runtimeconfig.json
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\bin\Debug\net8.0\bank-transfer-app.dll
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\bin\Debug\net8.0\bank-transfer-app.pdb
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.AssemblyInfoInputs.cache
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.AssemblyInfo.cs
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.csproj.CoreCompileInputs.cache
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.sourcelink.json
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.dll
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\refint\bank-transfer-app.dll
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.pdb
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\bank-transfer-app.genruntimeconfig.cache
+C:\Users\matheusc\Desktop\Treino\DIO\dio-project-net-bank-transfers-app\bank-transfer-app\obj\Debug\net8.0\ref\bank-transfer-app.dll
