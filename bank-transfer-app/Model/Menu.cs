@@ -44,15 +44,15 @@ namespace bank_transfer_app.Model
                         break;
 
                     case "3":
-                        // Transferir();
+                        Transferir();
                         break;
 
                     case "4":
-                        // Sacar();
+                        Sacar();
                         break;
 
                     case "5":
-                        // Depositar();
+                        Depositar();
                         break;
 
                     case "C":
@@ -68,6 +68,42 @@ namespace bank_transfer_app.Model
 
             System.Console.WriteLine("Obrigado por utilizar nossos serviços!");
             System.Console.ReadLine();
+        }
+
+        private void Transferir()
+        {
+            Console.Write("Digite o numero da conta origem: ");
+            int indiceContaOrigem = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o numero da conta destino: ");
+            int indiceContaDestino = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o valor a ser transferido: ");
+            double valorTransferencia = double.Parse(Console.ReadLine());
+
+            listaContas[indiceContaOrigem].Transferir(valorTransferencia, listaContas[indiceContaDestino]);
+        }
+
+        private void Depositar()
+        {
+            System.Console.Write("Digite o numero da conta: ");
+            int indiceConta = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o valor a ser depositad: ");
+            double valorDeposito = double.Parse(Console.ReadLine());
+
+            listaContas[indiceConta].Deposito(valorDeposito);
+        }
+
+        private void Sacar()
+        {
+            System.Console.Write("Digite o numero da conta: ");
+            int indiceConta = int.Parse(Console.ReadLine());
+
+            System.Console.Write("Digite o valor a ser sacado: ");
+            double valorSaque = double.Parse(Console.ReadLine());
+
+            listaContas[indiceConta].Sacar(valorSaque);
         }
 
         private void ListarContas()
