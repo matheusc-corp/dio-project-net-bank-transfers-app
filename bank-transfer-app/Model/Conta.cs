@@ -22,7 +22,7 @@ namespace bank_transfer_app.Model
         }
 
         public bool Sacar(double valor){
-            if(Saldo - valor < Credito){
+            if(Saldo - valor < (Credito * -1)){
                 System.Console.WriteLine("Saldo insuficiente.");
                 return false;
             }
