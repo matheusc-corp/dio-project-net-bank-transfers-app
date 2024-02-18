@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bank-transfer-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff0f5139d65de77318d486d05853c7aa48a82527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010d87d40267302563aa03bdd95dbda2c3d06623")]
 [assembly: System.Reflection.AssemblyProductAttribute("bank-transfer-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bank-transfer-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
